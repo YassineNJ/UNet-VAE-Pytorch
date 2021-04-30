@@ -1,3 +1,3 @@
 ## UNet & VAE 
 
-PyTorch impelmentation of UNet and a variational auto-encoder applied to the MNIST dataset 
+PyTorch impelmentation of UNet and a Variational Auto-Encoder applied to the MNIST dataset 
